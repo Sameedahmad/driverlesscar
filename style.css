@@ -1,0 +1,23 @@
+body{
+	background-image: url( C:\Users\Mac Book\Desktop\Driverless Car\img\tesla.jpg );
+}
+
+img{
+	background-image;
+	background-size:cover;
+	size:cover;
+	}
+
+.intro{
+	position: center;
+	text-decoration: underline;
+	font-size: 70px;
+	font-style:;
+	border: 5px solid lightblue;
+	color: #CBF900
+
+}
+.intro{
+	background-color: black;
+}
+
